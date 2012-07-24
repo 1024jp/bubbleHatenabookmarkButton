@@ -5,6 +5,7 @@
 */
 .hatena-bookmark-button.bubble {
 	text-decoration: none;
+	border: none;
 }
 .hatena-bookmark-button.bubble .count {
 	font: normal normal normal 11px/1.7 'Helvetica Neue','Arial',sans-serif;
@@ -15,7 +16,6 @@
 	border: 1px solid #bbb;
 	height:    18px;
 	min-width: 12px;
-	-webkit-border-radius: 3px;
 	-moz-border-radius: 3px;
 	border-radius: 3px;
 	padding: 0 3px;
