@@ -6,15 +6,15 @@ Bubble Style Hatena Bookmark Button v1.0
 TwitterやFacebookなどのボタンのような吹き出しスタイルに強制的に変換するJavaScriptです。
 要jQuery。
 
-- [ripository](http://github.com/1024jp/bubbleStyle-hatenabookmarkButton)
-- [blog](http://wolfrosch.com/text/2012/07/25)
+- [ripository](http://github.com/1024jp/bubbleHatenabookmarkButton)
+- [blog](http://wolfrosch.com/text/2012/07/24)
 
 使い方
 -------------------------------
 
 HTMLの `head` 内で同梱されている下記のJavaScriptファイルを読み込む。
 
-- jquery.bubbleStyle-hatenabookmarkButton.min.js
+- jquery.bubbleHatenabookmarkButton.min.js
 
 あとははページ内ではてなブックマークボタンの公式のタグを使えば
 タイプがスタンダードのはてなブックマークボタンが強制的に吹き出しスタイルに変換されます。
