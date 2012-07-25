@@ -1,7 +1,7 @@
 /*
     Bubble Style Hatena Bookmark Button
     author: 1024jp <wolfrosch.com>
-    version: v1.0 (2012-07-24)
+    version: v1.1 (2012-07-25)
 */
 
 
