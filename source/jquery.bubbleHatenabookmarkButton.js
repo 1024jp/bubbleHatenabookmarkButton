@@ -1,7 +1,7 @@
 /*
     Bubble Style Hatena Bookmark Button
     author: 1024jp <wolfrosch.com>
-    version: v1.0 (2012-07-24)
+    version: v1.1 (2012-07-25)
 */
 
 
@@ -29,7 +29,7 @@
 	 	// get count from Hatena via JSON
 		var placeholder = $(this);
 		$.getJSON('http://api.b.st-hatena.com/entry.count?url='+entryUrl+'&callback=?', function(count){
-			placeholder.append('<span class="count">' + count + '</span>');
+			placeholder.children().last().after('<span class="count">' + count + '</span>');
 		});
 	});
 })(jQuery);

@@ -1,11 +1,14 @@
 /*
     Bubble Style Hatena Bookmark Button
     author: 1024jp <wolfrosch.com>
-    version: v1.0 (2012-07-24)
+    version: v1.1 (2012-07-25)
 */
 .hatena-bookmark-button.bubble {
 	text-decoration: none;
 	border: none;
+	display: inline-block;
+	height: 20px;
+	line-height: 1.0;
 }
 .hatena-bookmark-button.bubble .count {
 	font: normal normal normal 11px/1.7 'Helvetica Neue','Arial',sans-serif;
@@ -19,7 +22,7 @@
 	-moz-border-radius: 3px;
 	border-radius: 3px;
 	padding: 0 3px;
-	vertical-align: 6px;
+	vertical-align: top;
 	margin-left: 5px;
 	display: inline-block;
 	position: relative;
