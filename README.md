@@ -6,7 +6,7 @@ Bubble Style Hatena Bookmark Button v1.1
 TwitterやFacebookなどのボタンのような吹き出しスタイルに強制的に変換するJavaScriptです。
 要jQuery。
 
-- [ripository](http://github.com/1024jp/bubbleHatenabookmarkButton)
+- [repository](http://github.com/1024jp/bubbleHatenabookmarkButton)
 - [blog](http://wolfrosch.com/text/2012/07/24)
 
 使い方
